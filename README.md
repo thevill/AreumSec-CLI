@@ -2,6 +2,10 @@
 **AreumSec-CLI** is a real-time cybersecurity threat analysis application built with Python. Designed for security analysts and VAPT professionals, for rapid file, URL, and IP/hash investigations.
 
 
+### **Web-App version:**
+https://github.com/thevill/AreumSec
+
+
 ### **Screenshot:**
 ![image](https://github.com/user-attachments/assets/4c686382-b153-4e45-b5fd-ee3e934fb8b4)
 
