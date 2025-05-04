@@ -34,3 +34,8 @@ python areumsec_cli.py
 
 ### **API Keys:**<br>
 Add your api_keys in config.py:<br>
+
+<br>
+<a href="https://www.buymeacoffee.com/pranaywajjala" target="_blank" rel="noopener noreferrer">
+      <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" 
+           alt="Buy Me a Coffee" style="height: 40px;">
